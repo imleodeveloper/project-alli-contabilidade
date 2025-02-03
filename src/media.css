@@ -1,0 +1,1260 @@
+@media (orientation: portrait){
+    @media (min-width: 320px){
+        /*HEADER*/
+        .div-logo-nav{
+            width: 60%;
+            justify-content: start;
+        }
+        /*HEADER*/
+        /*HOME PAGE*/
+        /*SLIDER*/
+        .button-slider button{
+            width: 70%;
+            font-size: 0.9rem;
+            height: 30px;
+        }
+        .swiper-pagination-bullet{
+            width: 12px !important;
+            height: 12px !important;
+        }
+        /* SLIDER 1° */
+        .title-slide{
+            width: 90%;
+        }
+        .title-slide h2{
+            font-size: 1.5rem;
+        }
+        .description-slide{
+            font-size: 1rem;
+            width: 90%;
+        }
+        /* SLIDER 1° */
+
+        /*CONTEÚDO*/
+        .title-section-home{
+            padding-bottom: 20px;
+        }
+        .titleFor-section{
+            width: 90%;
+            font-size: 1.3rem;
+        }
+        .subtitle-section{
+            width: 95%;
+        }
+        .quotation-subtitle-home{
+            font-size: 5rem;
+            left: 10px;
+        }
+
+        .section-home{
+            padding-top: 50px;
+            height: auto;
+        }
+        .item-consultoria div{
+            width: 90%;
+            height: auto;
+        }
+        .item-consultoria h2{
+            font-size: 1.5rem;
+        }
+
+        .section-home2{
+            height: auto;
+            padding-top: 150px;
+        }
+        .item-solutions{
+            flex-direction: column;
+        }
+        .item-solutions .link-solutions-home{
+            width: 90%;
+            height: auto;
+        }
+
+        .section-home3{
+            height: auto;
+            padding-top: 150px;
+        }
+        .item-services .link-services-home{
+            width: 90%;
+            height: auto;
+        }
+        
+        .section-home4{
+            height: auto;
+            padding-top: 150px;
+        }
+        .section-home4 div h2{
+            font-size: 1.3rem;
+        }
+        .section-home4 div h3{
+            width: 95%;
+        }
+        .link-contact-button{
+            width: 70%;
+        }
+        /*HOME PAGE*/
+
+        /* CONHEÇA A ALLI PAGE */
+        .title-about-us h1{
+            font-size: 2rem;
+        }
+
+        .content-about-us{
+            padding-top: 50px;
+            flex-direction: column;
+            align-items: center;
+        }
+        .content-about-us:nth-child(2n){
+            flex-direction: column-reverse;
+        }
+        .img-about-us{
+            width: 90%;
+        }
+        .text-about-us{
+            width: 90%;
+        }
+        .text-about-us h2{
+            font-size: 1.5rem;
+        }
+        /* CONHEÇA A ALLI PAGE */
+        /* PRIVACIDADE PAGE */
+        .h1Policies{
+            font-size: 2rem;
+        }
+        .h2Policies{
+            font-size: 1.5rem;
+        }
+        .h3Policies{
+            font-size: 1.2rem;
+        }
+        .h4Policies{
+            font-size: 1.05rem;
+        }
+        /* PRIVACIDADE PAGE */
+
+
+        /* SERVIÇOS PAGE */
+        .title-services h1{
+            font-size: 2.5rem;
+        }        
+        .item-page-services{
+            width: 95%;
+            flex-direction: column;
+        }
+        .item-img-services{
+            width: 100%;
+        }
+        .div-img-services{
+            height: 300px;
+        }
+        .btn-img-services .button-whatsapp-services{
+            width: 60%;
+        }
+        .item-text-services{
+            width: 95%;
+        }
+        .div-text-services{
+            height: auto;
+        }
+        .div-text-services h2{
+            font-size: 1.2rem;
+        }
+        .div-text-services h3{
+            font-size: 1.1rem;
+        }
+        /* SERVIÇOS PAGE */
+
+        /* SOLUÇÕES PAGE */
+        .title-solutions h1{
+            font-size: 2.5rem;
+        }
+        .content-solutions{
+            width: 90%;
+            flex-direction: column;
+        }
+        .content-solutions .content-img-solutions{
+          width: 100%;  
+          height: 300px;
+        }
+        .content-solutions .content-img-solutions img{
+            border-top-left-radius: 10px;
+            border-top-right-radius: 10px;
+            border-bottom-left-radius: 0px;
+        }
+        .content-solutions .content-item-solutions{
+            width: 100%;
+        }
+        .content-solutions h2{
+            text-align: center;
+            font-size: 1.5rem;
+        }
+        /* SOLUÇÕES PAGE */
+
+        /* CONTATO PAGE */
+        .title-contact h1{
+            font-size: 2.5rem;
+        }
+        .title-info-contact h2{
+            font-size: 1.5rem;
+        }
+        .title-info-contact h3{
+            font-size: 2rem;
+        }
+        .info-contact{
+            flex-wrap: wrap;
+        }
+        .item-info{
+            width: 90%;
+        }
+        .info-contact-2{
+            flex-wrap: wrap;
+        }
+        .info-contact-2 .item-text{
+            width: 90%;
+        }
+        .info-contact-2 .item-form{
+            width: 90%;
+        }
+        .group-input{
+            flex-wrap: wrap;
+        }
+        .input-after{
+            width: 100%;
+        }
+        /* CONTATO PAGE */
+        /* OBRIGADO PAGE */
+        .content-obrigado{
+            width: 80%;
+        }  
+        .content-obrigado h1{
+            font-size: 1.5rem;
+            width: 90%;
+        }
+        .content-obrigado h2{
+            font-size: 1.3rem;
+        }
+        .content-obrigado .link-obrigado{
+            width: 70%;
+        }
+        /* OBRIGADO PAGE */
+        /* FOOTER */
+        .footer-container{
+            flex-direction: column;
+            gap: 50px;
+        }
+        .footer-column{
+            width: 90%;
+        }
+        .footer-rights{
+            height: auto;
+        }
+        .footer-rights p, .footer-rights small{
+            text-align: center;
+        }
+        /* FOOTER */
+    }
+    @media (min-width: 540px){
+        .div-logo-nav{
+            width: 35%;
+            justify-content: start;
+        }
+        .content-solutions .content-img-solutions img{
+            object-position: 50% 40%;
+        }
+        .content-solutions:nth-child(4) .content-img-solutions img{
+            object-position: 50% 20%;
+        }
+        
+    }
+    @media (min-width: 768px){
+        .div-logo-nav{
+            width: 30%;
+        }
+        /*HOME PAGE*/        
+        /*SLIDER*/
+        .button-slider button{
+            width: 40%;
+            height: 50px;
+            font-size: 1rem;
+        }
+        .swiper-pagination-bullet{
+            width: 20px !important;
+            height: 20px !important;
+        }
+        /*SLIDER*/
+        /*SLIDER 1°*/
+        .title-slide{
+            width: 100%;
+        }
+        .title-slide h2{
+            font-size: 2rem;
+        }
+        .description-slide{
+            font-size: 1.2rem;
+        }
+        /*SLIDER 1°*/
+        /* CONTEÚDO */
+        .title-section-home{
+            padding-bottom: 50px;
+        }
+        .titleFor-section{
+            width: 100%;
+            font-size: 2rem;
+        }
+        .subtitle-section{
+            width: 70%;
+        }
+        .quotation-subtitle-home{
+            left: 30px;
+            font-size: 7rem;
+        }
+
+        .section-home4 div h2{
+            font-size: 2rem;
+        }
+        .section-home4 div h3{
+            width: 70%;
+        }
+
+        .link-contact-button{
+            width: 35%;
+        }
+        /* CONTEÚDO */
+        /* HOME PAGE */
+
+        /* CONHEÇA A ALLI PAGE */
+        .title-about-us h1{
+            font-size: 3.5rem;
+        }
+        .text-about-us h2{
+            font-size: 2.5rem;
+        }
+        /* CONHEÇA A ALLI PAGE */
+
+        /* PRIVACIDADE PAGE */
+        .h1Policies{
+            font-size: 3rem;
+        }
+        .h2Policies{
+            font-size: 2rem;
+        }
+        .h3Policies{
+            font-size: 1.5rem;
+        }
+        .h4Policies{
+            font-size: 1.05rem;
+        }
+        /* PRIVACIDADE PAGE */
+
+        /* SERVIÇOS PAGE */
+        .title-services h1{
+            font-size: 3.5rem;
+        }
+        .div-img-services{
+            height: 500px;
+        }
+        .btn-img-services .button-whatsapp-services{
+            width: 40%;
+        }
+        .div-text-services h2{
+            font-size: 2rem;
+        }
+        .div-text-services h3{
+            font-size: 1.5rem;
+        }
+        /* SERVIÇOS PAGE */
+
+        /* SOLUÇÕES PAGE */
+        .title-solutions h1{
+            font-size: 3.5rem;
+        }
+        .content-solutions h2{
+            font-size: 2rem;
+        }
+        /* SOLUÇÕES PAGE */
+
+        /* CONTATO PAGE */
+        .title-contact h1{
+            font-size: 3.5rem;
+        }
+        .title-info-contact h2{
+            font-size: 2rem;
+        }
+        .title-info-contact h3{
+            font-size: 2.5rem;
+        }
+        .group-input{
+            flex-wrap: nowrap;
+        }
+        .input-after{
+            width: 50%;
+        }
+        /* CONTATO PAGE */
+        /* OBRIGADO PAGE */
+        .content-obrigado{
+            width: 60%;
+        }
+        .content-obrigado h1{
+            font-size: 2.5rem;
+        }
+        .content-obrigado h2{
+            font-size: 1.8rem;
+        }
+        .content-obrigado .link-obrigado{
+            width: 40%;
+        }
+        /* OBRIGADO PAGE */
+        
+    }
+}
+@media (orientation: landscape){
+    @media (min-width: 320px){
+        /*HEADER*/
+        .div-logo-nav{
+            width: 30%;
+            justify-content: start;
+        }
+        /*HEADER*/
+        /*HOME PAGE*/
+        /*SLIDER*/
+        .button-slider button{
+            width: 40%;
+            font-size: 0.9rem;
+            height: 30px;
+        }
+        .swiper-pagination{
+            padding-bottom: 10px;
+        }
+        .swiper-pagination-bullet{
+            width: 12px !important;
+            height: 12px !important;
+        }
+        /* SLIDER 1° */
+        .title-slide{
+            width: 90%;
+        }
+        .title-slide h2{
+            font-size: 1.5rem;
+        }
+        .description-slide{
+            font-size: 1rem;
+            width: 90%;
+        }
+        /* SLIDER 1° */
+
+        /*CONTEÚDO*/
+        .title-section-home{
+            padding-bottom: 20px;
+        }
+        .titleFor-section{
+            width: 90%;
+            font-size: 1.3rem;
+        }
+        .subtitle-section{
+            width: 90%;
+        }
+        .quotation-subtitle-home{
+            font-size: 5rem;
+            left: 10px;
+        }
+
+        .section-home{
+            padding-top: 50px;
+            height: auto;
+        }
+        .item-consultoria div{
+            width: 90%;
+            height: auto;
+        }
+        .item-consultoria h2{
+            font-size: 1.5rem;
+        }
+
+        .section-home2{
+            height: auto;
+            padding-top: 150px;
+        }
+        .item-solutions{
+            flex-direction: column;
+        }
+        .item-solutions .link-solutions-home{
+            width: 90%;
+            height: auto;
+        }
+
+        .section-home3{
+            height: auto;
+            padding-top: 150px;
+        }
+        .item-services .link-services-home{
+            width: 90%;
+            height: auto;
+        }
+        
+        .section-home4{
+            height: auto;
+            padding-top: 150px;
+        }
+        .section-home4 div h2{
+            font-size: 1.3rem;
+        }
+        .section-home4 div h3{
+            width: 95%;
+        }
+        /*HOME PAGE*/
+
+        /* CONHEÇA A ALLI PAGE */
+        
+        .title-about-us h1{
+            font-size: 2rem;
+        }
+        .text-about-us h2{
+            font-size: 1.5rem;
+        }
+        .text-about-us p{
+            width: 99%;
+        }
+        /* CONHEÇA A ALLI PAGE */
+
+        /* SERVIÇOS PAGE */
+        .title-services h1{
+            font-size: 2.5rem;
+        }        
+        .item-page-services{
+            width: 95%;
+            flex-direction: column;
+        }
+        .item-img-services{
+            width: 100%;
+        }
+        .div-img-services{
+            height: 300px;
+        }
+        .btn-img-services .button-whatsapp-services{
+            width: 60%;
+        }
+        .item-text-services{
+            width: 95%;
+        }
+        .div-text-services{
+            height: auto;
+        }
+        .div-text-services h2{
+            font-size: 1.2rem;
+        }
+        .div-text-services h3{
+            font-size: 1.1rem;
+        }
+        /* SERVIÇOS PAGE */
+
+        /* SOLUÇÕES PAGE */
+        .title-solutions h1{
+            font-size: 2.5rem;
+        }
+        .content-solutions{
+            width: 90%;
+            flex-direction: column;
+        }
+        .content-solutions .content-img-solutions{
+            width: 100%;  
+            height: 300px;
+        }
+        .content-solutions .content-img-solutions img{
+            border-top-left-radius: 10px;
+            border-top-right-radius: 10px;
+            border-bottom-left-radius: 0px;
+        }
+        .content-solutions .content-item-solutions{
+            width: 100%;
+        }
+        .content-solutions:nth-child(4) .content-img-solutions img, .content-solutions:nth-child(3) .content-img-solutions img{
+            object-position: 50% 25%;
+        }
+        .content-solutions h2{
+            text-align: center;
+            font-size: 1.5rem;
+        }
+        /* SOLUÇÕES PAGE */
+
+        /* CONTATO PAGE */
+        .title-contact h1{
+            font-size: 2.5rem;
+        }
+        .title-info-contact h2{
+            font-size: 1.5rem;
+        }
+        .title-info-contact h3{
+            font-size: 2rem;
+        }
+        .info-contact{
+            flex-wrap: wrap;
+        }
+        .item-info{
+            width: 90%;
+        }
+        .info-contact-2{
+            flex-wrap: wrap;
+        }
+        .info-contact-2 .item-text{
+            width: 90%;
+        }
+        .info-contact-2 .item-form{
+            width: 90%;
+        }
+        /* CONTATO PAGE */
+        /* OBRIGADO PAGE */
+        .content-obrigado{
+            width: 80%;
+        }  
+        .content-obrigado h1{
+            font-size: 1.5rem;
+            width: 90%;
+        }
+        .content-obrigado h2{
+            font-size: 1.3rem;
+        }
+        .content-obrigado .link-obrigado{
+            width: 70%;
+        }
+        /* OBRIGADO PAGE */
+        /* FOOTER */
+        .footer-container{
+            flex-direction: column;
+        }
+        .footer-column{
+            width: 90%;
+        }
+        .footer-rights{
+            height: auto;
+        }
+        /* FOOTER */
+    }
+    @media (min-width: 1024px){
+        /*HEADER*/
+        .div-logo-nav{
+            width: 20%;
+        }
+        /*HEADER*/
+        /*HOME PAGE*/
+        /*SLIDER*/
+        .button-slider button{
+            width: 20%;
+            height: 50px;
+            font-size: 1rem;
+        }
+        .swiper-pagination{
+            padding-bottom: 100px;
+        }
+        .swiper-pagination-bullet{
+            width: 20px !important;
+            height: 20px !important;
+        }
+
+        /*SLIDER 1° */
+        .title-slide{
+            width: 100%;
+        }
+        .title-slide h2{
+            font-size: 2.5rem;
+        }
+        .description-slide{
+            width: 65%;
+            font-size: 1.5rem;
+        }
+        /*SLIDER 1° */
+
+        /* CONTEÚDO */
+        .title-section-home{
+            padding-bottom: 10px;
+        }
+        .titleFor-section{
+            font-size: 2rem;
+            width: 100%;
+        }
+        .subtitle-section{
+            width: 50%;
+        }
+        .quotation-subtitle-home{
+            font-size: 7rem;
+            left: 100px;
+        }
+
+        .section-home{
+            height: 110vh;
+        }
+        .item-consultoria div{
+            width: 25%;
+            height: 300px;
+        }
+
+        .section-home2{
+            height: 110vh;
+            padding-top: 0px;
+        }
+        .item-solutions{
+            width: 95%;
+            flex-direction: row;
+        }
+        .item-solutions .link-solutions-home{
+            width: 22%;
+            height: 350px;
+        }
+
+        .section-home3{
+            height: 110vh;
+            padding-top: 0px;
+        }
+        .item-services .link-services-home{
+            width: 25%;
+            height: 275px;
+        }
+
+        .section-home4{
+            height: 80vh;
+            padding-top: 0px;
+        }
+        .section-home4 div h2{
+            font-size: 2rem;
+        }
+        .section-home4 div h3{
+            width: 60%;
+        }
+        /* CONTEÚDO */
+        /* HOME PAGE */
+
+        /* CONHEÇA A ALLI PAGE */
+        .title-about-us h1{
+            font-size: 3.5rem;
+        }
+        .text-about-us h2{
+            font-size: 2.5rem;
+        }
+        .text-about-us p{
+            width: 95%;
+        }
+        /* CONHEÇA A ALLI PAGE */
+
+        /* SERVIÇOS PAGE */
+        .title-services h1{
+            font-size: 3.5rem;
+        }
+        .item-page-services{
+            width: 70%;
+            flex-direction: row;
+        }
+        .item-img-services{
+            width: 50%;
+        }
+        .div-img-services{
+            height: 500px;
+        }
+        .btn-img-services .button-whatsapp-services{
+            width: 50%;
+        }
+
+        .item-text-services{
+            width: 50%;
+        }
+        .div-text-services{
+            height: 550px;
+        }
+        .div-text-services h2{
+            font-size: 2rem;
+        }
+        .div-text-services h3{
+            font-size: 1.5rem;
+        }
+        /* SERVIÇOS PAGE */
+        
+        /* SOLUÇÕES PAGE */
+        .title-solutions h1{
+            font-size: 3.5rem;
+        }
+        .content-solutions{
+            width: 70%;
+            flex-direction: row;
+        }
+        .content-solutions .content-img-solutions{
+            width: 45%;
+            height: 100%;
+        }
+        .content-solutions .content-img-solutions img{
+            border-top-left-radius: 10px;
+            border-top-right-radius: 0px;
+            border-bottom-left-radius: 10px;
+        }
+        .content-solutions .content-item-solutions{
+            width: 55%;
+        }
+        .content-solutions:nth-child(4) .content-img-solutions img, .content-solutions:nth-child(3) .content-img-solutions img{
+            object-position: 50% 50%;
+        }
+        .content-solutions h2{
+            font-size: 1.7rem;
+            text-align: unset;
+        }
+        /* SOLUÇÕES PAGE */
+
+        /* CONTATO PAGE */
+        .title-contact h1{
+            font-size: 3.5rem;
+        }
+        .title-info-contact h2{
+            font-size: 2rem;
+        }
+        .title-info-contact h3{
+            font-size: 2.5rem;
+        }
+        .info-contact{
+            flex-wrap: nowrap;
+            width: 100%;
+        }
+        .item-info{
+            width: 28%;
+        }
+        .info-contact-2{
+            flex-wrap: nowrap;
+        }
+        .info-contact-2 .item-text{
+            width: 40%;
+        }
+        .info-contact-2 .item-form{
+            width: 40%;
+        }
+        .item-form form .title-form h2{
+            text-align: center;
+        }
+        /* CONTATO PAGE */
+        /* OBRIGADO PAGE */
+        .content-obrigado{
+            width: 50%;
+        }
+        .content-obrigado h1{
+            font-size: 2.5rem;
+        }
+        .content-obrigado h2{
+            font-size: 1.8rem;
+        }
+        .content-obrigado .link-obrigado{
+            width: 30%;
+        }
+        /* OBRIGADO PAGE */
+        /* FOOTER */
+        .footer-container{
+            flex-direction: row;
+        }
+        .footer-column{
+            width: 33%;
+        }
+        .footer-rights{
+            height: 60px;
+        }
+
+        /* FOOTER */
+    }
+    @media (min-width: 1280px){
+        /* CONTEÚDO HOME */
+        .title-section-home{
+            padding-bottom: 100px;
+        }
+        .quotation-subtitle-home{
+            font-size: 10rem;
+            left: 250px;
+        }
+
+
+        .item-consultoria div{
+            height: 250px;
+        }
+
+        .item-solutions{
+            width: 100%;
+        }
+        .item-solutions .link-solutions-home{
+            height: 300px;
+        }
+
+        .item-services .link-services-home{
+            height: 220px;
+        }
+        /* CONTEÚDO HOME */
+
+    }
+    @media (min-width: 1440px){
+        /*HEADER*/
+        .navbar-logo{
+            width: 60%;
+        }
+        /*HEADER*/
+
+        .item-consultoria h2{
+            font-size: 2rem;
+        }
+
+    }
+    @media (min-width: 1560px){
+
+    }
+    @media (min-width: 1920px){
+        /*HEADER*/
+        header{
+            height: 150px;
+        }
+        .nav-item{
+            font-size: 1.2rem;
+        }
+        .nav-dropdown .dropdown-menu{
+            top: calc(100% + 60px);
+        }
+        .dropdown-item{
+            font-size: 1.5rem;
+        }
+        /*HEADER*/
+        /* HOME */
+        .button-slider button{
+            font-size: 1.2rem;
+        }
+        .swiper-pagination{
+            padding-bottom: 150px;
+        }
+        /* SLIDER 1° */
+        .title-slide h2{
+            font-size: 3rem;
+        }
+        .description-slide{
+            font-size: 2rem;
+        }
+        /* SLIDER 1° */
+        /*CONTEÚDO */
+        .titleFor-section{
+            font-size: 2.5rem;
+        }
+        .subtitle-section{
+            font-size: 1.5rem;
+        }
+        /*CONTEÚDO */
+        .item-consultoria div{
+            height: 245px;
+        }
+        .item-consultoria p{
+            font-size: 1.15rem;
+        }
+
+
+        .item-solutions .link-solutions-home h2{
+            font-size: 1.5rem;
+        }
+        .item-solutions .link-solutions-home p{
+            font-size: 1.15rem;
+        }
+
+        .item-services .link-services-home{
+            height: 230px;
+        }
+        .item-services h3{
+            font-size: 1.6rem;
+        }
+        .item-services p{
+            font-size: 1.15rem;
+        }
+
+        .section-home4 .link-services-home h2{
+            font-size: 2.5rem;
+        }
+        .section-home4 div h3{
+            font-size: 1.5rem;
+        }
+        /* HOME */
+
+        /* CONHEÇA A ALLI */
+        .title-about-us h1{
+            font-size: 4rem;
+        }
+        .text-about-us h2{
+            font-size: 3rem;
+        }
+        .text-about-us p{
+            font-size: 1.2rem;
+        }
+        /* CONHEÇA A ALLI */
+
+        /* SERVIÇOS PAGE */
+        .title-services h1{
+            font-size: 4rem;
+        }
+        .btn-img-services .button-whatsapp-services{
+            font-size: 1.2rem;
+        }
+        .div-text-services h2{
+            font-size: 2.5rem;
+        }
+        .div-text-services p{
+            font-size: 1.2rem;
+        }
+        .div-text-services ul li{
+            font-size: 1.2rem;
+        }
+        /* SERVIÇOS PAGE */
+
+        /* SOLUÇÕES PAGE */
+        .title-solutions h1{
+            font-size: 4rem;
+        }
+        .content-solutions .content-img-solutions{
+            width: 50%;
+        }
+        .content-solutions .content-item-solutions{
+            width: 50%;
+        }
+        .content-solutions h2{
+            font-size: 2.5rem;
+        }
+        .content-solutions .list-solutions h3{
+            font-size: 1.8rem;
+        }
+        .content-solutions .list-solutions li{
+            font-size: 1.2rem;
+        }
+        /* SOLUÇÕES PAGE */
+
+        /* CONTATO PAGE */
+        .title-contact{
+            height: 600px;
+        }
+        .title-contact h1{
+            font-size: 4rem;
+        }
+        .title-info-contact h2{
+            font-size: 2.5rem;
+        }
+        .title-info-contact h3{
+            font-size: 3rem;
+        }
+        .item-info i{
+            font-size: 5rem;
+        }
+        .item-info h3{
+            font-size: 2.2rem;
+        }
+        .item-info p{
+            font-size: 1.2rem;
+        }
+        .info-contact-2 .item-text p{
+            font-size: 1.8rem;
+        }
+        .item-form form .title-form h2{
+            font-size: 2.5rem;
+        }
+        .button-form button{
+            font-size: 1.5rem;
+        }
+        /* CONTATO PAGE */
+
+        /* OBRIGADO PAGE */
+        .content-obrigado h1{
+            font-size: 3rem;
+        }
+        .content-obrigado h2{
+            font-size: 2.3rem
+        }
+        .content-obrigado p{
+            font-size: 1.2rem;
+        }
+
+        .content-obrigado button{
+            font-size: 1.1rem;
+        }
+        /* OBRIGADO PAGE */
+
+        /* FOOTER */
+        .footer-column h2{
+            font-size: 1.5rem;
+        }
+        .footer-column ul li{
+            font-size: 1.2rem;
+        }
+        .button-form-footer button{
+            font-size: 1.2rem;
+        }
+        /* FOOTER */
+
+    }
+    @media (min-width: 2560px){
+        /*HEADER*/
+        header{
+            height: 200px;
+        }
+        .nav-item{
+            font-size: 1.5rem;
+        }
+        .nav-dropdown .dropdown-menu{
+            top: calc(100% + 85px);
+        }
+        .dropdown-item{
+            font-size: 1.5rem;
+        }
+        /*HEADER*/
+        /* HOME */
+        .button-slider button{
+            font-size: 1.4rem;
+        }
+        .swiper-pagination{
+            padding-bottom: 200px;
+        }
+        /* SLIDER 1° */
+        .title-slide h2{
+            font-size: 3.5rem;
+        }
+        .description-slide{
+            font-size: 2.2rem;
+        }
+        /* SLIDER 1° */
+        /*CONTEÚDO */
+        .titleFor-section{
+            font-size: 3rem;
+        }
+        .subtitle-section{
+            font-size: 1.8rem;
+        }
+        /*CONTEÚDO */
+        .section-home{
+            height: 80vh;
+        }
+        .item-consultoria p{
+            width: 80%;
+            font-size: 1.2rem;
+        }
+
+        .section-home2{
+            height: 80vh;
+        }
+        .item-solutions .link-solutions-home h2{
+            font-size: 1.8rem;
+        }
+        .item-solutions .link-solutions-home p{
+            font-size: 1.2rem;
+        }
+
+        .section-home3{
+            height: 80vh;
+        }
+        .item-services h3{
+            font-size: 1.8rem;
+        }
+        .item-services p{
+            font-size: 1.2rem;
+        }
+
+
+        .section-home4 div h2{
+            font-size: 3rem;
+        }
+        .section-home4 div h3{
+            font-size: 1.8rem;
+        }
+        /* HOME */
+
+        /* CONHEÇA A ALLI */
+        .title-about-us h1{
+            font-size: 4.5rem;
+        }
+        .text-about-us h2{
+            font-size: 3.5rem;
+        }
+        .text-about-us p{
+            width: 75%;
+            font-size: 1.5rem;
+        }
+        /* CONHEÇA A ALLI */
+
+        /* SERVIÇOS PAGE */
+        .title-services h1{
+            font-size: 4.5rem;
+        }
+        .btn-img-services .button-whatsapp-services{
+            font-size: 1.4rem;
+            width: 30%;
+        }
+        .div-text-services h2{
+            font-size: 3rem;
+        }
+        .div-text-services p{
+            font-size: 1.5rem;
+        }
+        .div-text-services h3{
+            font-size: 2rem;
+        }
+        .div-text-services ul li{
+            font-size: 1.5rem;
+        }
+        /* SERVIÇOS PAGE */
+
+        /* SOLUÇÕES PAGE */
+        .title-solutions h1{
+            font-size: 4.5rem;
+        }
+        .content-solutions h2{
+            font-size: 3rem;
+        }
+        .content-solutions .list-solutions h3{
+            font-size: 2.2rem;
+        }
+        .content-solutions .list-solutions li{
+            font-size: 1.5rem;
+        }
+        /* SOLUÇÕES PAGE */
+
+        /* CONTATO PAGE */
+        .title-contact h1{
+            font-size: 4.5rem;
+        }
+        .title-info-contact h2{
+            font-size: 3rem;
+        }
+        .title-info-contact h3{
+            font-size: 3.5rem;
+        }
+        .item-info h3{
+            font-size: 2.5rem;
+        }
+        .item-info p{
+            font-size: 1.5rem;
+        }
+        .info-contact-2 .item-text p{
+            font-size: 1.8rem;
+        }
+        .item-form form .title-form h2{
+            font-size: 2.5rem;
+        }
+
+        /* CONTATO PAGE */
+
+        /* OBRIGADO PAGE */
+        .content-obrigado h1{
+            font-size: 3.5rem;
+        }
+        .content-obrigado h2{
+            font-size: 2.8rem
+        }
+        .content-obrigado p{
+            font-size: 1.5rem;
+        }
+
+        .content-obrigado button{
+            font-size: 1.3rem;
+        }
+        /* OBRIGADO PAGE */
+
+        /* FOOTER */
+        .footer-column h2{
+            font-size: 1.8rem;
+        }
+        .footer-column ul li{
+            font-size: 1.35rem;
+        }
+        .button-form-footer button{
+            font-size: 1.35rem;
+        }
+        /* FOOTER */
+    }
+}
