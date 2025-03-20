@@ -9,6 +9,7 @@ import CookieBanner from "./pages/CookieBanner";
 import Whatsapp from "./Whatsapp";
 import ScrollToTop from "./ScrollToTop";
 import { HelmetProvider } from "react-helmet-async";
+import TaxBanner from "./TaxBanner";
 
 
 function Alli(){
@@ -21,6 +22,7 @@ function Alli(){
                     <main>
                         <AppRoutes />
                     </main>
+                    <TaxBanner />
                     <Whatsapp />
                     <Footer />
                     <CookieBanner />

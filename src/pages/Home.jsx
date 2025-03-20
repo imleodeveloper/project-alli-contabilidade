@@ -83,14 +83,14 @@ function Home(){
         <article>    
             <Helmet>
                 <title>Home | ALLI Contabilidade - Soluções Contábeis para Seu Negócio</title>
-                <meta name="description" content="Serviços contábeis especializados em Guarulhos para MEIs, comércio, prestadores de serviços e profissionais da saúde. Confiança e excelência para o seu negócio!" />
+                <meta name="description" content="Declaração de imposto de renda, serviços contábeis especializados em Guarulhos para MEIs, comércio, prestadores de serviços e profissionais da saúde. Confiança e excelência para o seu negócio!" />
                 <meta name="keywords" content="contabilidade, MEI, comércio, finanças, impostos, assessoria" />
                 <meta name="author" content="Alli Contabilidade" />
                 <meta name="robots" content="index, follow" />
                 <meta property="og:title" content="Home | ALLI - Contabilidade em Guarulhos" />
-                <meta property="og:description" content="Conheça a ALLI Contabilidade, especializada em soluções contábeis para MEIs, comércio, prestadores de serviços e profissionais da saúde. Conte com nossa expertise para a saúde financeira do seu negócio." />
+                <meta property="og:description" content="Conheça a ALLI Contabilidade, declaração de imposto de renda, especializada em soluções contábeis para MEIs, comércio, prestadores de serviços e profissionais da saúde. Conte com nossa expertise para a saúde financeira do seu negócio." />
                 <meta property="og:type" content="website" />
-                <meta property="og:url" content="https://alli-contabilidade.netlify.app/" />
+                <meta property="og:url" content="https://allicontabilidade.com.br" />
 
                 {/* JSON-LD para schema.org */}
                 <script type="application/ld+json">
@@ -98,7 +98,7 @@ function Home(){
                 {
                     "@context": "https://schema.org",
                     "@type": "Organization",
-                    "url": "https://alli-contabilidade.netlify.app/",
+                    "url": "https://www.allicontabilidade.com.br",
                     "name": "ALLI Contabilidade",
                     "dateModified": "2025-01-31",
                     "contactPoint": {
