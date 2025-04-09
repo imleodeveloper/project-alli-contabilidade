@@ -14,7 +14,7 @@ function PrivacyPolicies(){
             <meta property="og:title" content="Políticas de Privacidade | ALLI Contabilidade" />
             <meta property="og:description" content="Leia nossas Políticas de Privacidade para entender como protegemos seus dados e garantimos a segurança das informações fornecidas em nossos serviços." />
             <meta property="og:type" content="website" />
-            <meta property="og:url" content="https://alli-contabilidade.netlify.app/empresa/politicas-de-privacidade" />
+            <meta property="og:url" content="https://www.allicontabilidade.com.br/empresa/politicas-de-privacidade" />
             
             {/* JSON-LD para schema.org */}
             <script type="application/ld+json">
@@ -22,7 +22,7 @@ function PrivacyPolicies(){
                 {
                     "@context": "https://schema.org",
                     "@type": "Organization",
-                    "url": "https://alli-contabilidade.netlify.app/",
+                    "url": "https://www.allicontabilidade.com.br/empresa/politicas-de-privacidade",
                     "name": "ALLI Contabilidade",
                     "description": "ALLI Contabilidade oferece soluções contábeis especializadas para MEIs, comércio, prestadores de serviços e profissionais da saúde. Com ética e excelência.",
                     "dateModified": "2025-01-31",
@@ -186,7 +186,7 @@ function PrivacyPolicies(){
             <h2 className='h2Policies'>Contato</h2>
             <p className='pPolicies'>Se você tiver alguma dúvida sobre esta Política de Privacidade, entre em contato conosco:</p>
             <ul className='ulPolicies2'>
-                <li>Por e-mail: <a href="mailto:contato@allicontabilidade.com.br">contato@allicontabilidade.com.br</a></li>
+                <li>Por e-mail: <a href="mailto:contabil@allicontabilidade.com.br">contabil@allicontabilidade.com.br</a></li>
                 <li>Visite nosso site: <a href="https://www.allicontabilidade.com.br">www.allicontabilidade.com.br</a></li>
             </ul>
     </div>

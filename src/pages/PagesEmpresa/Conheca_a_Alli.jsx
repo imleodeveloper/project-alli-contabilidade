@@ -15,6 +15,10 @@ function Conheca_a_Alli(){
                 <meta name="keywords" content="contabilidade, MEI, comércio, finanças, impostos, assessoria, ética, excelência, Guarulhos" />
                 <meta name="author" content="Alli Contabilidade" />
                 <meta name="robots" content="index, follow" />
+                <meta property="og:title" content="Sobre | ALLI Contabilidade - Serviços Contábeis" />
+                <meta property="og:description" content="Conheça os serviços especializados da ALLI Contabilidade para MEIs, comércio, prestadores de serviços e profissionais da saúde. Soluções com ética e excelência." />
+                <meta property="og:type" content="website" />
+                <meta property="og:url" content="https://www.allicontabilidade.com.br/empresa/conheca-a-alli" />
                 
                 {/* JSON-LD para schema.org */}
                 <script type="application/ld+json">
@@ -22,7 +26,7 @@ function Conheca_a_Alli(){
                     {
                         "@context": "https://schema.org",
                         "@type": "Organization",
-                        "url": "https://alli-contabilidade.netlify.app/",
+                        "url": "https://www.allicontabilidade.com.br/empresa/conheca-a-alli",
                         "name": "ALLI Contabilidade",
                         "description": "ALLI Contabilidade oferece soluções contábeis especializadas para MEIs, comércio, prestadores de serviços e profissionais da saúde. Com ética e excelência.",
                         "dateModified": "2025-01-31",

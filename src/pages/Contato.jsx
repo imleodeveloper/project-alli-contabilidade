@@ -19,14 +19,14 @@ function Contato(){
                 <meta property="og:title" content="Contato | ALLI Contabilidade - Fale Conosco" />
                 <meta property="og:description" content="Entre em contato com a ALLI Contabilidade para tirar suas dúvidas e agendar uma consultoria. Estamos prontos para ajudar a otimizar as finanças do seu negócio." />
                 <meta property="og:type" content="website" />
-                <meta property="og:url" content="https://alli-contabilidade.netlify.app/contato" />
+                <meta property="og:url" content="https://www.allicontabilidade.com.br/contato" />
                 {/* JSON-LD para schema.org */}
                 <script type="application/ld+json">
                 {`
                     {
                         "@context": "https://schema.org",
                         "@type": "Organization",
-                        "url": "https://alli-contabilidade.netlify.app/",
+                        "url": "https://www.allicontabilidade.com.br/contato",
                         "name": "ALLI Contabilidade",
                         "description": "ALLI Contabilidade oferece soluções contábeis especializadas para MEIs, comércio, prestadores de serviços e profissionais da saúde. Com ética e excelência.",
                         "dateModified": "2025-01-31",
@@ -53,7 +53,7 @@ function Contato(){
                             <div className="item-info">
                                 <i className="mdi mdi-email"></i>
                                 <h3>Nosso e-mail</h3>
-                                <p>contato@allicontabilidade.com.br</p>
+                                <p>contabil@allicontabilidade.com.br</p>
                             </div>
                             <div className="item-info">
                                 <i className="mdi mdi-phone-in-talk"></i>
@@ -72,7 +72,7 @@ function Contato(){
                                 <p>Caso tenha dúvidas ou precise de informações, sinta-se à vontade para nos procurar.</p>
                             </div>
                             <div className="item-form">
-                                <form action="https://formsubmit.co/imleodeveloper@gmail.com" method="POST">
+                                <form action="https://formsubmit.co/contabil@allicontabilidade.com.br" method="POST">
                                     <div className="title-form">
                                         <h2>Nos mande uma mensagem!</h2>
                                     </div>
@@ -107,7 +107,7 @@ function Contato(){
                                         <button type="submit">Enviar</button>
                                     </div>
 
-                                    <input type="hidden" name="_next" value="https://alli-contabilidade.netlify.app/contato/obrigado"/>
+                                    <input type="hidden" name="_next" value="https://www.allicontabilidade.com.br/contato/obrigado"/>
                                     <input type="hidden" name="_subject" value="Novo Contato - Formulário - ALLI Contabilidade"/>
                                     <input type="hidden" name="_captcha" value="false" />
                                     <input type="hidden" name="_template" value="table" />                                    

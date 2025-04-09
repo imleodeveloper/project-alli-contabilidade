@@ -14,7 +14,7 @@ function Obrigado(){
                 <meta property="og:title" content="Obrigado | ALLI Contabilidade - Sua Solicitação Foi Recebida" />
                 <meta property="og:description" content="Obrigado por entrar em contato com a ALLI Contabilidade! Sua solicitação foi recebida e entraremos em contato em breve para ajudá-lo a resolver suas questões contábeis." />
                 <meta property="og:type" content="website" />
-                <meta property="og:url" content="https://alli-contabilidade.netlify.app/contato/obrigado" />
+                <meta property="og:url" content="https://www.allicontabilidade.com.br/contato/obrigado" />
                 
                 {/* JSON-LD para schema.org */}
                 <script type="application/ld+json">
@@ -22,7 +22,7 @@ function Obrigado(){
                     {
                         "@context": "https://schema.org",
                         "@type": "Organization",
-                        "url": "https://alli-contabilidade.netlify.app/",
+                        "url": "https://www.allicontabilidade.com.br/contato/obrigado",
                         "name": "ALLI Contabilidade",
                         "description": "ALLI Contabilidade oferece soluções contábeis especializadas para MEIs, comércio, prestadores de serviços e profissionais da saúde. Com ética e excelência.",
                         "dateModified": "2025-01-31",

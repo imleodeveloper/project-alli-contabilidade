@@ -152,7 +152,7 @@ function Servicos(){
                 <meta property="og:title" content="Serviços | ALLI Contabilidade - Serviços Contábeis" />
                 <meta property="og:description" content="Conheça os serviços especializados da ALLI Contabilidade para MEIs, comércio, prestadores de serviços e profissionais da saúde. Soluções com ética e excelência." />
                 <meta property="og:type" content="website" />
-                <meta property="og:url" content="https://alli-contabilidade.netlify.app/servicos" />
+                <meta property="og:url" content="https://www.allicontabilidade.com.br/servicos" />
                 
                 {/* JSON-LD para schema.org */}
                 <script type="application/ld+json">
@@ -160,7 +160,7 @@ function Servicos(){
                     {
                         "@context": "https://schema.org",
                         "@type": "Organization",
-                        "url": "https://alli-contabilidade.netlify.app/",
+                        "url": "https://www.allicontabilidade.com.br/servicos",
                         "name": "ALLI Contabilidade",
                         "description": "ALLI Contabilidade oferece soluções contábeis especializadas para MEIs, comércio, prestadores de serviços e profissionais da saúde. Com ética e excelência.",
                         "dateModified": "2025-01-31",

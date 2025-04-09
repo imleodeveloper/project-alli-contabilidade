@@ -22,8 +22,8 @@ function Footer(){
                     <h2>Entre em contato</h2>
                     <ul>
                         <li className="navFooter">
-                            <a href="mailto:contato@allicontabilidade.com" className="navFooter">
-                                <i className="mdi mdi-email-outline iconsFooter"></i>contato@allicontabilidade.com
+                            <a href="mailto:contabil@allicontabilidade.com.br" className="navFooter">
+                                <i className="mdi mdi-email-outline iconsFooter"></i>contabil@allicontabilidade.com.br
                             </a>
                         </li>
                         <li className="navFooter">
@@ -39,7 +39,7 @@ function Footer(){
                     </ul>         
                 </div>    
                 <div className="footer-column">
-                    <form action="https://formsubmit.co/imleodeveloper@gmail.com" method="POST">
+                    <form action="https://formsubmit.co/contabil@allicontabilidade.com.br" method="POST">
                         <h2>Deixe que vamos até você!</h2>
                         <div className="group-input-footer">
                             <div className="input-after-footer">
@@ -72,7 +72,7 @@ function Footer(){
                             <button type="submit">Enviar</button>
                         </div>        
 
-                        <input type="hidden" name="_next" value="https://alli-contabilidade.netlify.app/contato/obrigado"/>
+                        <input type="hidden" name="_next" value="https://www.allicontabilidade.com.br/contato/obrigado"/>
                         <input type="hidden" name="_subject" value="Novo Contato - Formulário - ALLI Contabilidade"/>
                         <input type="hidden" name="_captcha" value="false" />
                         <input type="hidden" name="_template" value="table" />                      

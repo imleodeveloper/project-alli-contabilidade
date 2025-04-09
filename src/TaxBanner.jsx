@@ -1,18 +1,31 @@
+import { useState } from 'react';
 import './Alli.css';
 
 const TaxBanner = () => {
+    const [isExpanded, setIsExpanded] = useState(false);
+
+    const expandedTax = () =>{
+        setIsExpanded(!isExpanded);
+    }
     return(
         <>
         <div className="taxDiv">
-            <a
-                href="https://wa.me/5511967979650" 
-                target="_blank"
-                rel="noopener noreferrer"
+            <button
                 className="tax-float"
+                onClick={expandedTax}
             >
-                DECLARE IMPOSTO DE RENDA
-            </a>
+                Declaração de IRPF 2025
+            </button>            
         </div>
+        {isExpanded && (
+            <div className="expanded-tax">
+                <div className="content-tax">
+
+                <button></button>    
+                </div>
+                
+            </div>
+        )}
         </>
     )
 }

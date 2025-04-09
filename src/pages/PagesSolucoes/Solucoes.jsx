@@ -18,7 +18,7 @@ function Solucoes(){
                 <meta property="og:title" content="Soluções | ALLI Contabilidade - Soluções Contábeis" />
                 <meta property="og:description" content="Conheça as soluções da ALLI Contabilidade para MEIs, comércio, prestadores de serviços e profissionais da saúde. Soluções com ética e excelência." />
                 <meta property="og:type" content="website" />
-                <meta property="og:url" content="https://alli-contabilidade.netlify.app/solucoes" />
+                <meta property="og:url" content="https://www.allicontabilidade.com.br/solucoes" />
                 
                 {/* JSON-LD para schema.org */}
                 <script type="application/ld+json">
@@ -26,7 +26,7 @@ function Solucoes(){
                     {
                         "@context": "https://schema.org",
                         "@type": "Organization",
-                        "url": "https://alli-contabilidade.netlify.app/",
+                        "url": "https://www.allicontabilidade.com.br/solucoes",
                         "name": "ALLI Contabilidade",
                         "description": "ALLI Contabilidade oferece soluções contábeis especializadas para MEIs, comércio, prestadores de serviços e profissionais da saúde. Com ética e excelência.",
                         "dateModified": "2025-01-31",

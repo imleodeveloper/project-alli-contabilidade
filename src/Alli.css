@@ -1901,6 +1901,8 @@ footer{
     color: #fff;
     font-weight: bold;
     text-align: center;
+    border: none;
+    background: none;
 }
 .taxDiv:hover{
     background: #a55000;
@@ -1976,5 +1978,31 @@ footer{
         }
     }
 }
+
+.expanded-tax{
+    width: 100%;
+    height: 100%;
+    background: rgba(37, 37, 37, 0.5);
+    backdrop-filter: blur(5px);
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    z-index: 20;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.expanded-tax .content-tax{
+    position: relative;
+    width: 70%;
+    height: 600px;
+    background: #07163fea;
+}
+.expanded-tax .content-tax button{
+    position: absolute;
+    top: 30px;
+    right: 30px;
+}
+
 /**************************************** IMPOSTO FIM ****************************************/
 
